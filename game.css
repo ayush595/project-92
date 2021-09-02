@@ -1,0 +1,55 @@
+body
+{
+    background-size: cover;
+    background-image: url(https://image.shutterstock.com/image-illustration/empty-background-scene-dark-street-260nw-1426726724.jpg);
+
+}
+#the
+{
+    font-size: 40px;
+    color: rgb(245, 23, 23);
+    font-weight: bolder;
+}
+#login
+{
+    font-weight: 900;
+    font-size: 29px;
+    width: 35%;
+}
+#name1
+{
+    margin-top: 30px;
+    width: 30%;
+    border-radius: 20px;
+}
+#name2
+{
+    width: 30%;
+    border-radius: 20px;
+}
+#button11
+{
+    
+}
+#math
+{
+    font-size: 50px;
+    color: rgb(255, 176, 30);
+    font-weight: bolder;
+}
+#quiz
+{
+    font-size: 60px;
+    color: rgb(32, 241, 77);
+    font-weight: bolder;
+}
+#game
+{
+    font-size: 70px;
+    color: rgb(157, 10, 241);
+    font-weight: bolder;
+}
+#iiii
+{
+    background-image: url("https://play-lh.googleusercontent.com/uPfkN2ZN4ROv7WpHZWO-iy6kGeggIr8DQ1-Zyjnv9b-u1ayH_xC2Ogi5ZW3YEaA4EiY");
+}
